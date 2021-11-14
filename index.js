@@ -3,6 +3,7 @@ function x(){
     function y(){
         console.log(a)
     }
-    y();
+    console.log("hello world")
+   
 }
 x();
